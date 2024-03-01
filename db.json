@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "User2",
+      "profilePic": ""
+    },
+    {
+      "id": "ea54",
+      "empId": "emp2",
+      "name": "Travis",
+      "email": "Travis@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "8b61",
+      "empId": "emp3",
+      "name": "Taylor",
+      "email": "Taylor@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "93b4",
+      "empId": "Emp4",
+      "name": "Abel",
+      "email": "abel@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "a536",
+      "empId": "Emp5",
+      "name": "Kanye",
+      "email": "Kanye@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "f23d",
+      "empId": "Emp6",
+      "name": "Kim",
+      "email": "Kim@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "aad5",
+      "empId": "Emp7",
+      "name": "Tom",
+      "email": "Tom@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "f545",
+      "empId": "Emp8",
+      "name": "Carti",
+      "email": "carti@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "f6c6",
+      "empId": "Emp9",
+      "name": "Soman",
+      "email": "soman@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "43ad",
+      "empId": "Emp10",
+      "name": "Haile",
+      "email": "haile@gmail.com",
+      "status": "1"
+    }
+  ]
+}
